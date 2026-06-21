@@ -1,6 +1,6 @@
 # MECCHA CHAMELEON Box ESP
 
-(please feel free to contact me on discord: @seeked.you that is my discord.)
+*(please feel free to contact me on discord: @seeked.you that is my discord.)*
 
 A fully external box ESP for **MECCHA CHAMELEON** (Steam / UE5.6). No DLL injection, no UE4SS dependency — it pattern-scans the running game process and reads memory through `pymem`.
 
